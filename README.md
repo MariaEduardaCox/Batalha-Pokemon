@@ -16,7 +16,7 @@ Por favor, leia o COLABORACAO.md para obter detalhes sobre o nosso código de co
 Nós usamos SemVer para controle de versão. Para as versões disponíveis, observe as tags neste repositório.
 
 ✒️ Autores
-Maria Eduarda Albuquerque dos Reis - Primeiro Trabalho com POO.
+Maria Eduarda Albuquerque dos Reis, Márico Funes - Primeiro Trabalho com POO.
 
 📄 Licença
 Este projeto está sob a licença (Maria Eduarda Albuquerque dos Reis) - veja o arquivo LICENSE.md para detalhes.
